@@ -6,6 +6,7 @@ brew "git"
 
 # node
 brew "node"
+brew "yarn"
 
 # ruby
 brew "ruby"
