@@ -30,5 +30,11 @@ cask "slack"
 brew "postgresql"
 cask "pgadmin4"
 
+# redis
+brew "redis"
+
 # dash
 cask "dash"
+
+# iterm
+cask "iterm2"
