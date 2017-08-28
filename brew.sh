@@ -15,3 +15,6 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/mas
 
 # Enable PostgreSQL
 brew services start postgresql
+
+# Enable Redis
+brew services start redis
